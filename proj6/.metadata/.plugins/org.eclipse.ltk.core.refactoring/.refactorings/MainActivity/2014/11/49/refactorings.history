@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;edu.purdue.YL&apos; to &apos;edu.purdue.lazarm&apos;&#x0D;&#x0A;- Original project: &apos;MainActivity&apos;&#x0D;&#x0A;- Original element: &apos;MainActivity/src/edu.purdue.YL&apos;&#x0D;&#x0A;- Renamed element: &apos;MainActivity/src/edu.purdue.lazarm&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;edu.purdue.YL&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;edu.purdue.YL" name="edu.purdue.lazarm" qualified="false" references="true" stamp="1417378707268" textual="false" version="1.0"/>
+</session>
